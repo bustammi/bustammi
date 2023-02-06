@@ -7,7 +7,7 @@ Data Analyst and UX/UI Designer
 I am a recent Graduate Student at York University majoring in Bachelor of Commerce in ITEC. I've been learning to code for more than 1+ years 🧑‍💻 Recently, my interest is data analytics, automation, front-end and UX/UI design 📊🔢🖥 My Github contains all coding bootcamp practices, academic and personal projects.
 
 * 🌍  I'm based in Toronto, Canada
-* 🖥️  See my portfolio at [UX/UI Design Adobe Portfolio](http://bustammi.myportfolio.com/)
+* 🖥️  See my portfolio at [UX/UI Design Adobe Portfolio](https://www.behance.net/micahbustamante)
 * ✉️  You can contact me at [mcb.micah@gmail.com](mailto:mcb.micah@gmail.com)
 * 🧠  I'm learning Python, Java, SQL, ETL Framework and more!
 * ⚡  I like sight-seeing, travelling and going on concerts ✈️
